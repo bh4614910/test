@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/liubohua/Downloads/SDKTest/demo/build/intermediates/res/merged/debug/raw/beep.ogg",
+        "source": "/Users/liubohua/Downloads/SDKTest/demo/res/raw/beep.ogg"
+    },
+    {
+        "merged": "/Users/liubohua/Downloads/SDKTest/demo/build/intermediates/res/merged/debug/raw/realm_properties",
+        "source": "/Users/liubohua/Downloads/SDKTest/demo/res/raw/realm_properties"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/liubohua/Downloads/SDKTest/demo/build/intermediates/res/merged/debug/drawable-xhdpi-v4/record_switch_camera_disable.png",
+        "source": "/Users/liubohua/Downloads/SDKTest/demo/res/drawable-xhdpi/record_switch_camera_disable.png"
+    },
+    {
+        "merged": "/Users/liubohua/Downloads/SDKTest/demo/build/intermediates/res/merged/debug/drawable-xhdpi-v4/record_exitsure_normal.png",
+        "source": "/Users/liubohua/Downloads/SDKTest/demo/res/drawable-xhdpi/record_exitsure_normal.png"
+    },
+    {
+        "merged": "/Users/liubohua/Downloads/SDKTest/demo/build/intermediates/res/merged/debug/drawable-xhdpi-v4/record_flash_normal.png",
+        "source": "/Users/liubohua/Downloads/SDKTest/demo/res/drawable-xhdpi/record_flash_normal.png"
+    },
+    {
+        "merged": "/Users/liubohua/Downloads/SDKTest/demo/build/intermediates/res/merged/debug/drawable-xhdpi-v4/record_exit_normal.png",
+        "source": "/Users/liubohua/Downloads/SDKTest/demo/res/drawable-xhdpi/record_exit_normal.png"
+    },
+    {
+        "merged": "/Users/liubohua/Downloads/SDKTest/demo/build/intermediates/res/merged/debug/drawable-xhdpi-v4/record_flash_disable.png",
+        "source": "/Users/liubohua/Downloads/SDKTest/demo/res/drawable-xhdpi/record_flash_disable.png"
+    },
+    {
+        "merged": "/Users/liubohua/Downloads/SDKTest/demo/build/intermediates/res/merged/debug/drawable-xhdpi-v4/record_switch_camera_normal.png",
+        "source": "/Users/liubohua/Downloads/SDKTest/demo/res/drawable-xhdpi/record_switch_camera_normal.png"
+    },
+    {
+        "merged": "/Users/liubohua/Downloads/SDKTest/demo/build/intermediates/res/merged/debug/drawable-xhdpi-v4/record_switch_camera_highlighted.png",
+        "source": "/Users/liubohua/Downloads/SDKTest/demo/res/drawable-xhdpi/record_switch_camera_highlighted.png"
+    },
+    {
+        "merged": "/Users/liubohua/Downloads/SDKTest/demo/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/liubohua/Downloads/SDKTest/demo/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/liubohua/Downloads/SDKTest/demo/build/intermediates/res/merged/debug/drawable-xhdpi-v4/record_flash_highlighted.png",
+        "source": "/Users/liubohua/Downloads/SDKTest/demo/res/drawable-xhdpi/record_flash_highlighted.png"
+    },
+    {
+        "merged": "/Users/liubohua/Downloads/SDKTest/demo/build/intermediates/res/merged/debug/drawable-xhdpi-v4/record_exit_disable.png",
+        "source": "/Users/liubohua/Downloads/SDKTest/demo/res/drawable-xhdpi/record_exit_disable.png"
+    }
+]

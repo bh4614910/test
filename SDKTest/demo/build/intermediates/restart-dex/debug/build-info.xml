@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="22"
+    density="xxhdpi"
+    format="7"
+    timestamp="459009325399" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build timestamp="459009325399" />
+    <build timestamp="37911948396293" >
+        <artifact
+            location="/Users/liubohua/Downloads/SDKTest/demo/build/outputs/apk/demo-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

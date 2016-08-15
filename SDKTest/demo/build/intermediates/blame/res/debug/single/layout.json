@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/liubohua/Downloads/SDKTest/demo/build/intermediates/res/merged/debug/layout/camera_activity.xml",
+        "source": "/Users/liubohua/Downloads/SDKTest/demo/res/layout/camera_activity.xml"
+    },
+    {
+        "merged": "/Users/liubohua/Downloads/SDKTest/demo/build/intermediates/res/merged/debug/layout/popup_layout.xml",
+        "source": "/Users/liubohua/Downloads/SDKTest/demo/res/layout/popup_layout.xml"
+    },
+    {
+        "merged": "/Users/liubohua/Downloads/SDKTest/demo/build/intermediates/res/merged/debug/layout/list_local.xml",
+        "source": "/Users/liubohua/Downloads/SDKTest/demo/res/layout/list_local.xml"
+    },
+    {
+        "merged": "/Users/liubohua/Downloads/SDKTest/demo/build/intermediates/res/merged/debug/layout/activity_net.xml",
+        "source": "/Users/liubohua/Downloads/SDKTest/demo/res/layout/activity_net.xml"
+    },
+    {
+        "merged": "/Users/liubohua/Downloads/SDKTest/demo/build/intermediates/res/merged/debug/layout/activity_select.xml",
+        "source": "/Users/liubohua/Downloads/SDKTest/demo/res/layout/activity_select.xml"
+    },
+    {
+        "merged": "/Users/liubohua/Downloads/SDKTest/demo/build/intermediates/res/merged/debug/layout/demo_activity.xml",
+        "source": "/Users/liubohua/Downloads/SDKTest/demo/res/layout/demo_activity.xml"
+    },
+    {
+        "merged": "/Users/liubohua/Downloads/SDKTest/demo/build/intermediates/res/merged/debug/layout/camera.xml",
+        "source": "/Users/liubohua/Downloads/SDKTest/demo/res/layout/camera.xml"
+    },
+    {
+        "merged": "/Users/liubohua/Downloads/SDKTest/demo/build/intermediates/res/merged/debug/layout/activity_setting.xml",
+        "source": "/Users/liubohua/Downloads/SDKTest/demo/res/layout/activity_setting.xml"
+    },
+    {
+        "merged": "/Users/liubohua/Downloads/SDKTest/demo/build/intermediates/res/merged/debug/layout/media_actionbar.xml",
+        "source": "/Users/liubohua/Downloads/SDKTest/demo/res/layout/media_actionbar.xml"
+    },
+    {
+        "merged": "/Users/liubohua/Downloads/SDKTest/demo/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/liubohua/Downloads/SDKTest/demo/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/liubohua/Downloads/SDKTest/demo/build/intermediates/res/merged/debug/layout/camera_titlebar.xml",
+        "source": "/Users/liubohua/Downloads/SDKTest/demo/res/layout/camera_titlebar.xml"
+    },
+    {
+        "merged": "/Users/liubohua/Downloads/SDKTest/demo/build/intermediates/res/merged/debug/layout/net_actionbar.xml",
+        "source": "/Users/liubohua/Downloads/SDKTest/demo/res/layout/net_actionbar.xml"
+    },
+    {
+        "merged": "/Users/liubohua/Downloads/SDKTest/demo/build/intermediates/res/merged/debug/layout/qianyi_player.xml",
+        "source": "/Users/liubohua/Downloads/SDKTest/demo/res/layout/qianyi_player.xml"
+    },
+    {
+        "merged": "/Users/liubohua/Downloads/SDKTest/demo/build/intermediates/res/merged/debug/layout/activity_history.xml",
+        "source": "/Users/liubohua/Downloads/SDKTest/demo/res/layout/activity_history.xml"
+    },
+    {
+        "merged": "/Users/liubohua/Downloads/SDKTest/demo/build/intermediates/res/merged/debug/layout/fragment_local.xml",
+        "source": "/Users/liubohua/Downloads/SDKTest/demo/res/layout/fragment_local.xml"
+    },
+    {
+        "merged": "/Users/liubohua/Downloads/SDKTest/demo/build/intermediates/res/merged/debug/layout/camera_bottombar.xml",
+        "source": "/Users/liubohua/Downloads/SDKTest/demo/res/layout/camera_bottombar.xml"
+    }
+]

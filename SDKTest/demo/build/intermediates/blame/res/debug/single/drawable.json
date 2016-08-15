@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/liubohua/Downloads/SDKTest/demo/build/intermediates/res/merged/debug/drawable/video_image.png",
+        "source": "/Users/liubohua/Downloads/SDKTest/demo/res/drawable/video_image.png"
+    },
+    {
+        "merged": "/Users/liubohua/Downloads/SDKTest/demo/build/intermediates/res/merged/debug/drawable/recorder_delete_icon.xml",
+        "source": "/Users/liubohua/Downloads/SDKTest/demo/res/drawable/recorder_delete_icon.xml"
+    },
+    {
+        "merged": "/Users/liubohua/Downloads/SDKTest/demo/build/intermediates/res/merged/debug/drawable/qyvideo_pause_btn.png",
+        "source": "/Users/liubohua/Downloads/SDKTest/demo/res/drawable/qyvideo_pause_btn.png"
+    },
+    {
+        "merged": "/Users/liubohua/Downloads/SDKTest/demo/build/intermediates/res/merged/debug/drawable/recorder_rotate_icon.xml",
+        "source": "/Users/liubohua/Downloads/SDKTest/demo/res/drawable/recorder_rotate_icon.xml"
+    },
+    {
+        "merged": "/Users/liubohua/Downloads/SDKTest/demo/build/intermediates/res/merged/debug/drawable/qyvideo_start_btn.png",
+        "source": "/Users/liubohua/Downloads/SDKTest/demo/res/drawable/qyvideo_start_btn.png"
+    },
+    {
+        "merged": "/Users/liubohua/Downloads/SDKTest/demo/build/intermediates/res/merged/debug/drawable/recorder_flash_icon.xml",
+        "source": "/Users/liubohua/Downloads/SDKTest/demo/res/drawable/recorder_flash_icon.xml"
+    }
+]
